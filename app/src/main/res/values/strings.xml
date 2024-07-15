@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">IncetroTest</string>
+
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="description">Description</string>
+    <string name="empty_description">Description in response is empty.</string>
+    <string name="loading">Loading</string>
+    <string name="wait">Please wait</string>
+</resources>

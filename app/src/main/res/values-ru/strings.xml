@@ -1,0 +1,8 @@
+<resources>
+    <string name="restaurants">Рестораны</string>
+    <string name="restaurant">Ресторан</string>
+    <string name="description">Описание</string>
+    <string name="empty_description">Описание в ответе на запрос отсутствует.</string>
+    <string name="loading">Загрузка</string>
+    <string name="wait">Пожалуйста, ждите</string>
+</resources>
